@@ -1,0 +1,2 @@
+NUM_PIXELS = 500
+

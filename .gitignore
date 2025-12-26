@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Animation file (user-created, but can be committed if desired)
+# animation.py
+
+# Points data - include this in the repo for standalone use
+# (uncomment the line below if you want to ignore it)
+# utils/points/3dpoints.npy
+
